@@ -18,5 +18,6 @@ pytest>=6.2.5
 protobuf>=3.11,<=3.20.2
 psutil
 kaleido
-tensorflow
+tensorflow==2.8.0
+sklearn
 bitarray
