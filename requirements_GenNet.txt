@@ -21,3 +21,5 @@ kaleido
 tensorflow==2.8.0
 sklearn
 bitarray
+paml
+paml2
