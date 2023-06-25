@@ -21,5 +21,4 @@ kaleido
 tensorflow==2.8.0
 sklearn
 bitarray
-plink==1.9
 plink==2.0
